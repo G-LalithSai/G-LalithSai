@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **lalithsai101@gmail.com**
 
+- 👨‍💻 All of my projects are available [here](https://lalith-sai-portfolio.vercel.app/)
+
 <br/>
 <br/>
 
