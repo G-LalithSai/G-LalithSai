@@ -16,9 +16,9 @@
 # 🌐 Socials:
 
 <p align="left">
-<a href="https://linkedin.com/in/lalith-sai-579147120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lalith-sai-579147120" height="30" width="40" /></a>
-<a href="https://hashnode.com/@lalithsai101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@lalithsai101" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/g-lalith-sai-2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="g-lalith-sai-2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lalith-sai-579147120" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lalith-sai-579147120" height="30" width="40" /></a>
+<a href="https://hashnode.com/@lalithsai101" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@lalithsai101" height="30" width="40" /></a>
+<a href="https://leetcode.com/G-LalithSai" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="g-lalith-sai-2" height="30" width="40" /></a>
 </p>
 
 <br/>
