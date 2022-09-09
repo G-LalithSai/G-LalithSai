@@ -50,7 +50,7 @@
 
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F16728?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-2196F3?style=for-the-badge&logo=linux)
+![Linux](https://img.shields.io/badge/Linux-191919?style=for-the-badge&logo=linux)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)
 ![NPM](https://img.shields.io/badge/-NPM-F44336?style=for-the-badge&logo=npm&logoColor=red)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
