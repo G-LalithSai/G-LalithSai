@@ -28,7 +28,7 @@
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/Javascript-FFEB3B?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/Javascript-333333?style=for-the-badge&logo=javascript&logoColor=FFEB3B)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Frontend
