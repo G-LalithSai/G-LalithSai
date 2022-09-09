@@ -16,7 +16,7 @@
 # 🌐 Socials:
 
 <p align="left">
-<a href="https://linkedin.com/in/lalith-sai-579147120" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1D87DA?style=for-the-badge&logo=linkedin" alt="lalith-sai-579147120" /></a>
+<a href="https://linkedin.com/in/lalith-sai-579147120" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0179AF?style=for-the-badge&logo=linkedin" alt="lalith-sai-579147120" /></a>
 <a href="https://hashnode.com/@lalithsai101" target="_blank"><img src="https://img.shields.io/badge/Hashnode-333333?style=for-the-badge&logo=hashnode" alt="@lalithsai101"/></a>
 <a href="https://leetcode.com/G-LalithSai/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-333333?style=for-the-badge&logo=leetcode" alt="G-LalithSai" /></a>
 </p>
