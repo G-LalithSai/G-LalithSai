@@ -49,11 +49,11 @@
 ### Tools and Applications
 
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F16728?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-FF5722?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-191919?style=for-the-badge&logo=linux)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)
 ![NPM](https://img.shields.io/badge/-NPM-F44336?style=for-the-badge&logo=npm&logoColor=red)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF5722?style=for-the-badge&logo=postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Windows](https://img.shields.io/badge/Windows-2196F3?logo=windows&style=for-the-badge)
 
