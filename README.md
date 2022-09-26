@@ -21,7 +21,14 @@
 <br/>
 <br/>
 
-# 💻 Tech Stack:
+## Connect with me:
+
+<a href="https://linkedin.com/in/lalith-sai-579147120" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0179AF?style=for-the-badge&logo=linkedin" alt="lalith-sai-579147120" /></a> <a href="https://github.com/G-LalithSai" target="_blank"><img src="https://img.shields.io/badge/Github-111111?style=for-the-badge&logo=github" alt="lalith-sai-579147120" /></a>
+
+<br/>
+<br/>
+
+## 💻 Tech Stack:
 
 ### Languages
 
