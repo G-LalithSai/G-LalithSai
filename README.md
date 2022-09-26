@@ -19,13 +19,11 @@
 - My Leetcode Profile <a href="https://leetcode.com/G-LalithSai/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-333333?logo=leetcode" alt="G-LalithSai" /></a>
 
 <br/>
-<br/>
 
 ## 🌐 Connect with me:
 
 <a href="https://linkedin.com/in/lalith-sai-579147120" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0179AF?style=for-the-badge&logo=linkedin" alt="lalith-sai-579147120" /></a> <a href="https://github.com/G-LalithSai" target="_blank"><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github" alt="lalith-sai-579147120" /></a>
 
-<br/>
 <br/>
 
 ## 💻 Tech Stack:
@@ -68,7 +66,6 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 <br/>
-<br/>
 
 ## 📊 GitHub Stats:
 
@@ -80,23 +77,20 @@
  | - | - |
 
 <br/>
-<br/>
 
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=G-LalithSai&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 <br/>
-<br/>
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br/>
-<br/>
 
-### 🤖 Activities
+## 🤖 Activities
 
 ![](https://activity-graph.herokuapp.com/graph?username=G-LalithSai&theme=redical)
 
