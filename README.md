@@ -19,7 +19,6 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/lalith-sai-579147120" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0179AF?style=for-the-badge&logo=linkedin" alt="lalith-sai-579147120" /></a>
-<a href="https://hashnode.com/@lalithsai101" target="_blank"><img src="https://img.shields.io/badge/Hashnode-333333?style=for-the-badge&logo=hashnode" alt="@lalithsai101"/></a>
 <a href="https://leetcode.com/G-LalithSai/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-333333?style=for-the-badge&logo=leetcode" alt="G-LalithSai" /></a>
 </p>
 
@@ -80,6 +79,9 @@
 ### 🤖 Activities
 
 ![](https://activity-graph.herokuapp.com/graph?username=G-LalithSai&theme=redical)
+
+![](https://github-readme-stats.vercel.app/api?username=G-LalithSai&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=G-LalithSai&layout=compact&theme=tokyonight&langs_count=10)
 
 
 ---
