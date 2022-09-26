@@ -80,8 +80,7 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=G-LalithSai&theme=redical)
 
-![](https://github-readme-stats.vercel.app/api?username=G-LalithSai&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=G-LalithSai&layout=compact&theme=tokyonight&langs_count=10)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G-LalithSai&theme=github_dark)
 
 
 ---
