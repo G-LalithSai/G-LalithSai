@@ -1,10 +1,12 @@
-## Hi there 👋 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> , I'm Lalith
+## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> , I'm Lalith
 
-#### Aspiring Full Stack web developer
+#### I'm an Aspiring Full Stack Web Developer skilled in MERN stack and also focuses on writing clean, elegant and efficient code with good problem solving ability.
 
-- 🔭 I’m currently working on **Back-End**
+- 🔭 I’m constantly working on **learning new skills!.**
 
 - 🌱 I’m currently learning **MERN Stack**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects** and **Innovative Projects**.
 
 - 📫 How to reach me **lalithsai101@gmail.com**
 
@@ -74,6 +76,11 @@
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🤖 Activities
+
+![](https://activity-graph.herokuapp.com/graph?username=G-LalithSai&theme=redical)
+
 
 ---
 
