@@ -1,5 +1,3 @@
-<img align="right" alt="Coding" width="300" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format">
-
 ## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> , I'm Lalith
 
 #### I'm an Aspiring Full Stack Web Developer skilled in MERN stack and also focuses on writing clean, elegant and efficient code with good problem solving ability. I love to explore new technologies and leverage them to solve real-life problems ✨.
@@ -13,6 +11,8 @@
 - 📫 How to reach me **lalithsai101@gmail.com**
 
 - 👨‍💻 All of my projects are available [here](https://lalithsai.vercel.app/)
+
+<img align="right" alt="Coding" width="300" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format">
 
 <br/>
 <br/>
