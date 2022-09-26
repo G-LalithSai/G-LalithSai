@@ -58,18 +58,24 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Windows](https://img.shields.io/badge/Windows-2196F3?logo=windows&style=for-the-badge)
 
+### Deployments
+
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 <br/>
 <br/>
 
 # 📊 GitHub Stats:
-
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=G-LalithSai&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=G-LalithSai&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=G-LalithSai&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G-LalithSai&theme=github_dark)
-
+</div>
+  
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=G-LalithSai&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
