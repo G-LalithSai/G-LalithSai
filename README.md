@@ -2,13 +2,13 @@
 
 #### Aspiring Full Stack web developer
 
-- 🔭 I’m currently working on **Front-End**
+- 🔭 I’m currently working on **Back-End**
 
 - 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **lalithsai101@gmail.com**
 
-- 👨‍💻 All of my projects are available [here](https://lalith-sai-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available [here](https://lalithsai.vercel.app/)
 
 <br/>
 <br/>
