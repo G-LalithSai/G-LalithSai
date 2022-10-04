@@ -4,7 +4,7 @@
 
 #### I'm an Aspiring Full Stack Web Developer skilled in MERN stack and also focuses on writing clean, elegant and efficient code with good problem solving ability. I love to explore new technologies and leverage them to solve real-life problems ✨.
 
-- 🔭 Intrigued to learn **new technologies** and **learning new skills!**.
+- 🔭 Intrigued to learn **new technologies** and **learning new skills**.
 
 - 🌱 I’m currently learning **MERN Stack**
 
