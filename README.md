@@ -16,7 +16,7 @@
 
 - 💬 Connect to me at <a href="https://linkedin.com/in/lalith-sai-579147120" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0179AF?logo=linkedin" alt="lalith-sai-579147120" /></a>
 
-- My Leetcode Profile <a href="https://leetcode.com/G-LalithSai/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-333333?logo=leetcode" alt="G-LalithSai" /></a>
+- 🕹️ My Leetcode Profile <a href="https://leetcode.com/G-LalithSai/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-333333?logo=leetcode" alt="G-LalithSai" /></a>
 
 <br/>
 
