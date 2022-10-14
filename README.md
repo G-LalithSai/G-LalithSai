@@ -83,16 +83,4 @@
 
 <br/>
 
-## ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<br/>
-
-## 🤖 Activities
-
-![](https://activity-graph.herokuapp.com/graph?username=G-LalithSai&theme=redical)
-
----
-
 [![](https://visitcount.itsvg.in/api?id=G-LalithSai&icon=3&color=8)](https://visitcount.itsvg.in)
