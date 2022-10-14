@@ -77,7 +77,7 @@
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G-LalithSai&theme=github_dark) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=G-LalithSai&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
  | - | - |
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=G-LalithSai&theme=github_dark)
+![stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=G-LalithSai&theme=github_dark)
 
 <br/>
 
