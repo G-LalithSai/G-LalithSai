@@ -75,7 +75,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=G-LalithSai&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G-LalithSai&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G-LalithSai&theme=github_dark)
 
 <br/>
 
