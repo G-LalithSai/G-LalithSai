@@ -81,7 +81,7 @@
 
 ## 🏆 GitHub Trophies
 
-![]([https://github-profile-trophy.vercel.app/?username=G-LalithSai](https://github-profile-trophy.vercel.app/?username=G-LalithSai&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB,C&theme=github_dark&margin-w=15))
+![](https://github-profile-trophy.vercel.app/?username=G-LalithSai&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB,C&theme=github_dark&margin-w=15)
 
 <br/>
 
