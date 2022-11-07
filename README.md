@@ -73,13 +73,15 @@
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=G-LalithSai&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=G-LalithSai&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
 | - | - |
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G-LalithSai&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api?username=G-LalithSai&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G-LalithSai&theme=dark)
 
 <br/>
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=G-LalithSai)
+![]([https://github-profile-trophy.vercel.app/?username=G-LalithSai](https://github-profile-trophy.vercel.app/?username=G-LalithSai&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB,C&theme=github_dark&margin-w=15))
 
 <br/>
 
