@@ -6,8 +6,6 @@
 
 - 🔭 Intrigued to learn **new technologies** and **learning new skills**.
 
-- 🌱 I’m currently learning **MERN Stack**
-
 - 👯 I’m looking to collaborate on **OpenSource Projects** and **Innovative Projects**.
 
 - 📫 How to reach me **lalithsai101@gmail.com**
